@@ -1,0 +1,8 @@
+.clock-dail{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    position: relative;
+    border: 20px solid #00818a;
+    margin: 0 auto;
+}
